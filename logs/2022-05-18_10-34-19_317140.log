@@ -1,0 +1,5 @@
+2022-05-18 10:34:19.319 | INFO     | __main__:run:16 - Namespace(batch_size=64, code_length=[8, 24, 32, 48], dataset='brainData', device=device(type='cuda', index=0), gamma=200, gpu=True, lr=0.001, max_epoch=3, max_iter=50, model_num=2, num_query=100, num_samples=200, num_workers=0, root='D:/algorithm/ADSH_PyTorch/data', topk=-1)
+2022-05-18 10:34:33.914 | INFO     | adsh:train:161 - [Training time:11.72]
+2022-05-18 10:34:33.915 | INFO     | __main__:run:47 - [code_length:8][map:0.4500]
+2022-05-18 10:34:43.663 | INFO     | adsh:train:161 - [Training time:9.74]
+2022-05-18 10:34:43.664 | INFO     | __main__:run:47 - [code_length:24][map:0.4900]
